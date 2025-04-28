@@ -1,0 +1,48 @@
+/* Resetando margens e fontes */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  /* Estilo para o cabeçalho */
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo para a área principal */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilo para botões */
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  
+  /* Efeito ao passar o mouse */
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Estilo para rodapé */
+  footer {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
